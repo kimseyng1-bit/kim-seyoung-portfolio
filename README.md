@@ -1,0 +1,59 @@
+# 김서영 포트폴리오 (Seyoung Kim Portfolio)
+
+## 개요
+AI-Powered Product Owner의 포트폴리오 웹사이트. 다양한 디자인 시스템을 적용한 3가지 버전으로 구성되어 있습니다.
+
+## 포트폴리오 버전
+
+### V1: Dark Theme (Navy Accent)
+- 파일: `김서영_브랜딩페이지_dark.html`
+- 특징: 어두운 테마, 파란색 액센트, 마우스 반응 노드 네트워크 배경
+- 기술: Anime.js v4, Canvas animation
+
+### V2: Light Theme (Vucko Design System)
+- 파일: `김서영_브랜딩페이지_light_v2.html`
+- 특징: 밝은 테마, 미니멀 디자인, 언더라인 reveal 애니메이션
+- 기술: Anime.js v4, Grid-based layout
+
+### V3: Dark Theme (Dala Design System)
+- 파일: `김서영_브랜딩페이지_dala_v3.html`
+- 특징: 어두운 void 캔버스, 보라색/황색 액센트, 파티클 constellation
+- 기술: Anime.js v4, Canvas particles, Two-column asymmetric layout
+
+## 콘텐츠
+
+### 경력 (Career)
+- 신비웹 PM팀 (2018-2020): 이지펜션 솔루션 운영·개선
+- GS리테일 마케팅기획팀 (2020-현재): 멤버십·로열티 서비스 기획
+
+### 핵심 역량 (Competencies)
+1. 데이터 기반 문제 구조화
+2. 멤버십 서비스 End-to-End 오너십
+3. 조직 간 정책 조율을 통한 구조 설계
+4. AI를 업무 구조에 직접 적용하는 실행력
+
+### 임팩트 (Impact)
+- +141.4% 패밀리 신규가입 전환
+- +58.5% 브랜드 인지율 상승
+- +24.5% GS Pay 신규 가입 전환율 개선
+- +10%p 멤버십 등급쿠폰 사용률 상승
+- 90% 데이터 확인 리드타임 단축 (1~2주 → 최단 1일)
+
+### 프로젝트 (Projects)
+1. GS ALL 통합멤버십 End-to-End 기획 (2020-현재)
+2. 신규 가입 사용자 Activation Funnel 최적화 (2026.04-진행중)
+3. AI 기반 기획업무 혁신 (진행중)
+
+### AI 활용 (AI Usage)
+- 에이전트 팀: 검토 → 설계 → 작성 → 법률검토
+- 멀티에이전트 워크플로우 설계·운영
+
+## 기술 스택
+
+- HTML5 & CSS3
+- Anime.js v4 (애니메이션)
+- Canvas API (파티클 시스템)
+- Pretendard 폰트
+
+## 라이선스
+© 2026 김서영
