@@ -1,24 +1,13 @@
 # 김서영 포트폴리오 (Seyoung Kim Portfolio)
 
 ## 개요
-AI-Powered Product Owner의 포트폴리오 웹사이트. 다양한 디자인 시스템을 적용한 3가지 버전으로 구성되어 있습니다.
+AI-Powered Product Owner의 포트폴리오 웹사이트.
 
-## 포트폴리오 버전
+## 포트폴리오
 
-### V1: Dark Theme (Navy Accent)
-- 파일: `김서영_브랜딩페이지_dark.html`
+- 파일: `index.html`
 - 특징: 어두운 테마, 파란색 액센트, 마우스 반응 노드 네트워크 배경
 - 기술: Anime.js v4, Canvas animation
-
-### V2: Light Theme (Vucko Design System)
-- 파일: `김서영_브랜딩페이지_light_v2.html`
-- 특징: 밝은 테마, 미니멀 디자인, 언더라인 reveal 애니메이션
-- 기술: Anime.js v4, Grid-based layout
-
-### V3: Dark Theme (Dala Design System)
-- 파일: `김서영_브랜딩페이지_dala_v3.html`
-- 특징: 어두운 void 캔버스, 보라색/황색 액센트, 파티클 constellation
-- 기술: Anime.js v4, Canvas particles, Two-column asymmetric layout
 
 ## 콘텐츠
 
